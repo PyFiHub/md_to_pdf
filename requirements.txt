@@ -1,0 +1,4 @@
+Markdown==3.4.3
+markdown2==2.4.12
+pdfkit==1.0.0
+streamlit==1.29.0
